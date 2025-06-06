@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baipilla Swamy Eshwar Rohanth</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;React+%7C+Node+%7C+MongoDB+Lover;Always+Learning+%F0%9F%93%9A;Building+Something+Awesome+Everyday+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A;Building+Something+Awesome+Everytime+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation">
 </p>
 
 <p align="center">
