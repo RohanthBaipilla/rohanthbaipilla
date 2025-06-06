@@ -84,7 +84,7 @@
 </table>
 
 ---
-
+<!--
 ## 💼 Experience
 
 | Role | Company | Date |
@@ -92,7 +92,7 @@
 | 💻 Full Stack Intern | Bharat Intern | Feb 2024 |
 | 🌐 Web Dev Intern | Bharat Intern | Dec 2023 |
 
----
+-->
 
 ## 📌 Projects
 
