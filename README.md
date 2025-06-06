@@ -5,10 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rohanthbaipilla@gmail.com"><img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/rohanthbaipilla" target="_blank"><img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github"></a>
+  <a href="mailto:rohanthbaipilla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/rohanthbaipilla" target="_blank">
+    <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/rohanthbaipilla" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
+  </a>
 </p>
+
 
 ---
 
