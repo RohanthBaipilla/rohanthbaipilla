@@ -5,6 +5,27 @@
 </p>
 
 <p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
+    <a href="mailto:rohanthbaipilla@gmail.com" style="border: none;">
+      <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" style="border: none;">
+    </a>
+    <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="border: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" style="border: none;">
+    </a>
+    <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none;">
+      <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers" style="border: none;">
+    </a>
+    <a href="https://www.instagram.com/shiva_rohanth/" target="_blank" style="border: none;">
+      <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" style="border: none;">
+    </a>
+    <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views" style="border: none;">
+    </a>
+  </div>
+</p>
+
+
+<!--<p align="center">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0;">
       <td style="padding: 0 12px; border: none;">
@@ -34,7 +55,7 @@
       </td>
     </tr>
   </table>
-</p>
+</p>-->
 
 
 
