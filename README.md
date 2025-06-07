@@ -30,12 +30,13 @@
       </td>
       <td style="padding: 0;">
         <a href="https://www.instagram.com/shiva_rohanth/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+          <img src="https://img.shields.io/badge/Instagram-1.2K%20Followers-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Followers">
         </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
