@@ -96,32 +96,33 @@
   </tr>
   <tr>
     <td>B.Tech - CSE</td>
-    <td style="display: flex; align-items: center; gap: 10px;">
-      <img src="./klu-logo.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="KL University">
-      KL University, Vaddeswaram
+    <td style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+      <img src="./klu-logo.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="KL University">
+      <span>KL University, Vaddeswaram</span>
     </td>
     <td style="text-align: center;">2021 – 2025</td>
     <td style="text-align: center;">CGPA: 9.5</td>
   </tr>
   <tr>
     <td>Intermediate (MPC)</td>
-    <td style="display: flex; align-items: center; gap: 10px;">
-      <img src="./sri-chaitanya-college.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya College">
-      Sri Chaitanya College
+    <td style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+      <img src="./sri-chaitanya-college.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya College">
+      <span>Sri Chaitanya College</span>
     </td>
     <td style="text-align: center;">2019 – 2021</td>
     <td style="text-align: center;">941/1000</td>
   </tr>
   <tr>
     <td>SSC</td>
-    <td style="display: flex; align-items: center; gap: 10px;">
-      <img src="./sri-chaitanya-school.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya School">
-      Sri Chaitanya Techno School
+    <td style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+      <img src="./sri-chaitanya-school.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya Techno School">
+      <span>Sri Chaitanya Techno School</span>
     </td>
     <td style="text-align: center;">2018 – 2019</td>
     <td style="text-align: center;">GPA: 9.5</td>
   </tr>
 </table>
+
 
 
 ---
