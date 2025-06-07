@@ -133,7 +133,7 @@
   <tr>
     <td>SSC</td>
     <td>Sri Chaitanya Techno School</td>
-    <td><img src="./sri-chaitanya-school.png" width="70px" height="70px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya"></td>
+    <td><img src="./sri-chaitanya-schooll.png" width="70px" height="70px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya"></td>
     <td>2018 – 2019</td>
     <td>GPA: 9.5</td>
   </tr>
