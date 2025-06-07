@@ -109,55 +109,53 @@
 ## 🎓 Education
 
 <table align="center" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%; max-width: 800px; background-color: #0f0f0f; color: white; font-family: Arial, sans-serif;">
-  <tr style="background-color: #1f1f1f;">
-    <th style="text-align: left;">Qualification</th>
-    <th style="text-align: left;">Institution & Logo</th>
-    <th style="text-align: center;">Year</th>
-    <th style="text-align: center;">Score</th>
-  </tr>
+  <thead>
+    <tr style="background-color: #1f1f1f;">
+      <th style="text-align: left; padding: 12px;">Qualification</th>
+      <th style="text-align: left; padding: 12px;">Institution & Logo</th>
+      <th style="text-align: center; padding: 12px;">Year</th>
+      <th style="text-align: center; padding: 12px;">Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="vertical-align: middle;">
+      <td style="padding: 12px;">B.Tech - CSE</td>
+      <td style="padding: 12px;">
+        <div style="display: inline-flex; align-items: center; gap: 12px;">
+          <img src="./klu-logo.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="KL University">
+          <span style="font-size: 16px;">KL University, Vaddeswaram</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 12px;">2021 – 2025</td>
+      <td style="text-align: center; padding: 12px;">CGPA: 9.5</td>
+    </tr>
 
-  <tr>
-    <td>B.Tech - CSE</td>
-    <td style="vertical-align: middle;">
-      <div style="display: flex; align-items: center;">
-        <img src="./klu-logo.png" width="60" height="60"
-             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;"
-             alt="KL University">
-        <span style="font-size: 16px;">KL University, Vaddeswaram</span>
-      </div>
-    </td>
-    <td style="text-align: center;">2021 – 2025</td>
-    <td style="text-align: center;">CGPA: 9.5</td>
-  </tr>
+    <tr style="vertical-align: middle;">
+      <td style="padding: 12px;">Intermediate (MPC)</td>
+      <td style="padding: 12px;">
+        <div style="display: inline-flex; align-items: center; gap: 12px;">
+          <img src="./sri-chaitanya-college.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya College">
+          <span style="font-size: 16px;">Sri Chaitanya College</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 12px;">2019 – 2021</td>
+      <td style="text-align: center; padding: 12px;">941/1000</td>
+    </tr>
 
-  <tr>
-    <td>Intermediate (MPC)</td>
-    <td style="vertical-align: middle;">
-      <div style="display: flex; align-items: center;">
-        <img src="./sri-chaitanya-college.png" width="60" height="60"
-             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;"
-             alt="Sri Chaitanya College">
-        <span style="font-size: 16px;">Sri Chaitanya College</span>
-      </div>
-    </td>
-    <td style="text-align: center;">2019 – 2021</td>
-    <td style="text-align: center;">941/1000</td>
-  </tr>
-
-  <tr>
-    <td>SSC</td>
-    <td style="vertical-align: middle;">
-      <div style="display: flex; align-items: center;">
-        <img src="./sri-chaitanya-schooll.png" width="60" height="60"
-             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;"
-             alt="Sri Chaitanya Techno School">
-        <span style="font-size: 16px;">Sri Chaitanya Techno School</span>
-      </div>
-    </td>
-    <td style="text-align: center;">2018 – 2019</td>
-    <td style="text-align: center;">GPA: 9.5</td>
-  </tr>
+    <tr style="vertical-align: middle;">
+      <td style="padding: 12px;">SSC</td>
+      <td style="padding: 12px;">
+        <div style="display: inline-flex; align-items: center; gap: 12px;">
+          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya School">
+          <span style="font-size: 16px;">Sri Chaitanya Techno School</span>
+        </div>
+      </td>
+      <td style="text-align: center; padding: 12px;">2018 – 2019</td>
+      <td style="text-align: center; padding: 12px;">GPA: 9.5</td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 
