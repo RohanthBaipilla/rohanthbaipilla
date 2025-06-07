@@ -108,7 +108,7 @@
 
 ## 🎓 Education
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
   <tr>
     <th>Qualification</th>
     <th>Institution & Logo</th>
@@ -117,10 +117,10 @@
   </tr>
   <tr>
     <td>B.Tech - CSE</td>
-    <td align="center">
-      <div style="display: inline-flex; align-items: center; gap: 10px;">
-        <span>KL University, Vaddeswaram</span>
+    <td>
+      <div style="display: flex; align-items: center; gap: 12px;">
         <img src="./klu-logo.png" width="50px" height="50px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="KL University">
+        <span>KL University, Vaddeswaram</span>
       </div>
     </td>
     <td>2021 – 2025</td>
@@ -128,10 +128,10 @@
   </tr>
   <tr>
     <td>Intermediate (MPC)</td>
-    <td align="center">
-      <div style="display: inline-flex; align-items: center; gap: 10px;">
+    <td>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <img src="./sri-chaitanya-college.png" width="50px" height="50px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya College">
         <span>Sri Chaitanya College</span>
-        <img src="./sri-chaitanya-college.png" width="50px" height="50px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya">
       </div>
     </td>
     <td>2019 – 2021</td>
@@ -139,16 +139,17 @@
   </tr>
   <tr>
     <td>SSC</td>
-    <td align="center">
-      <div style="display: inline-flex; align-items: center; gap: 10px;">
+    <td>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <img src="./sri-chaitanya-schooll.png" width="50px" height="50px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya School">
         <span>Sri Chaitanya Techno School</span>
-        <img src="./sri-chaitanya-schooll.png" width="50px" height="50px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya">
       </div>
     </td>
     <td>2018 – 2019</td>
     <td>GPA: 9.5</td>
   </tr>
 </table>
+
 
 
 <!--<table align="center">
