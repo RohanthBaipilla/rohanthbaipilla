@@ -4,25 +4,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A;Building+Something+Awesome+Everytime+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation">
 </p>
 
-<p align="center">
+<body style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f9f9f9;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
     <a href="mailto:rohanthbaipilla@gmail.com" style="border: none;">
-      <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" style="border: none;">
+      <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
     </a>
     <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="border: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" style="border: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
     </a>
     <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none;">
-      <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers" style="border: none;">
+      <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
     </a>
     <a href="https://www.instagram.com/shiva_rohanth/" target="_blank" style="border: none;">
-      <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" style="border: none;">
+      <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
     <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none;">
-      <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
     </a>
   </div>
-</p>
+</body>
+
 
 
 <!--<p align="center">
