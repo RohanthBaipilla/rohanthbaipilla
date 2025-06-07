@@ -153,7 +153,7 @@
     <td>
       <div style="display: flex; align-items: center;">
         <div style="flex: 0 0 60px; display: flex; justify-content: center; align-items: center; margin: 10px; text-align: center;">
-          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd; margin-right: 10px;" alt="Sri Chaitanya School">
+          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd; margin-left: 10px; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" alt="Sri Chaitanya School">
           <span>Sri Chaitanya Techno School</span>
         </div>
       </div>
