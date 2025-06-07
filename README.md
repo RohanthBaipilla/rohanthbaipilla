@@ -6,36 +6,39 @@
 
 
 <p align="center">
-  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td style="padding: 0; border: none;">
-        <a href="mailto:rohanthbaipilla@gmail.com">
-          <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
+  <table 
+    cellspacing="0" cellpadding="0" 
+    style="border-collapse: separate; border-spacing: 0; border: none; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0;">
+      <td style="padding: 0; border: none; outline: none; margin: 0;">
+        <a href="mailto:rohanthbaipilla@gmail.com" style="border: none; outline: none;">
+          <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" style="border: none; outline: none;">
         </a>
       </td>
-      <td style="padding: 0; border: none;">
-        <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+      <td style="padding: 0; border: none; outline: none; margin: 0;">
+        <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="border: none; outline: none;">
+          <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" style="border: none; outline: none;">
         </a>
       </td>
-      <td style="padding: 0; border: none;">
-        <a href="https://github.com/rohanthbaipilla" target="_blank">
-          <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
+      <td style="padding: 0; border: none; outline: none; margin: 0;">
+        <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none; outline: none;">
+          <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers" style="border: none; outline: none;">
         </a>
       </td>
-      <td style="padding: 0; border: none;">
-        <a href="https://github.com/rohanthbaipilla" target="_blank">
-          <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
+      <td style="padding: 0; border: none; outline: none; margin: 0;">
+        <a href="https://github.com/rohanthbaipilla" target="_blank" style="border: none; outline: none;">
+          <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views" style="border: none; outline: none;">
         </a>
       </td>
-      <td style="padding: 0; border: none;">
-        <a href="https://www.instagram.com/shiva_rohanth/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+      <td style="padding: 0; border: none; outline: none; margin: 0;">
+        <a href="https://www.instagram.com/shiva_rohanth/" target="_blank" style="border: none; outline: none;">
+          <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" style="border: none; outline: none;">
         </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
