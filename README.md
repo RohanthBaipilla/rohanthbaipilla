@@ -108,53 +108,63 @@
 
 ## 🎓 Education
 
-<table align="center" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%; max-width: 800px; background-color: #0f0f0f; color: white; font-family: Arial, sans-serif;">
-  <thead>
-    <tr style="background-color: #1f1f1f;">
-      <th style="text-align: left; padding: 12px;">Qualification</th>
-      <th style="text-align: left; padding: 12px;">Institution & Logo</th>
-      <th style="text-align: center; padding: 12px;">Year</th>
-      <th style="text-align: center; padding: 12px;">Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="vertical-align: middle;">
-      <td style="padding: 12px;">B.Tech - CSE</td>
-      <td style="padding: 12px;">
-        <div style="display: inline-flex; align-items: center; gap: 12px;">
+<table align="center" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
+  <tr>
+    <th>Qualification</th>
+    <th>Institution & Logo</th>
+    <th>Year</th>
+    <th>Score</th>
+  </tr>
+
+  <tr>
+    <td>B.Tech - CSE</td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
           <img src="./klu-logo.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="KL University">
-          <span style="font-size: 16px;">KL University, Vaddeswaram</span>
         </div>
-      </td>
-      <td style="text-align: center; padding: 12px;">2021 – 2025</td>
-      <td style="text-align: center; padding: 12px;">CGPA: 9.5</td>
-    </tr>
+        <div style="padding-left: 12px;">
+          KL University, Vaddeswaram
+        </div>
+      </div>
+    </td>
+    <td>2021 – 2025</td>
+    <td>CGPA: 9.5</td>
+  </tr>
 
-    <tr style="vertical-align: middle;">
-      <td style="padding: 12px;">Intermediate (MPC)</td>
-      <td style="padding: 12px;">
-        <div style="display: inline-flex; align-items: center; gap: 12px;">
+  <tr>
+    <td>Intermediate (MPC)</td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
           <img src="./sri-chaitanya-college.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya College">
-          <span style="font-size: 16px;">Sri Chaitanya College</span>
         </div>
-      </td>
-      <td style="text-align: center; padding: 12px;">2019 – 2021</td>
-      <td style="text-align: center; padding: 12px;">941/1000</td>
-    </tr>
+        <div style="padding-left: 12px;">
+          Sri Chaitanya College
+        </div>
+      </div>
+    </td>
+    <td>2019 – 2021</td>
+    <td>941/1000</td>
+  </tr>
 
-    <tr style="vertical-align: middle;">
-      <td style="padding: 12px;">SSC</td>
-      <td style="padding: 12px;">
-        <div style="display: inline-flex; align-items: center; gap: 12px;">
+  <tr>
+    <td>SSC</td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
           <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya School">
-          <span style="font-size: 16px;">Sri Chaitanya Techno School</span>
         </div>
-      </td>
-      <td style="text-align: center; padding: 12px;">2018 – 2019</td>
-      <td style="text-align: center; padding: 12px;">GPA: 9.5</td>
-    </tr>
-  </tbody>
+        <div style="padding-left: 12px;">
+          Sri Chaitanya Techno School
+        </div>
+      </div>
+    </td>
+    <td>2018 – 2019</td>
+    <td>GPA: 9.5</td>
+  </tr>
 </table>
+
 
 
 
