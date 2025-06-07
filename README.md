@@ -120,12 +120,10 @@
     <td>B.Tech - CSE</td>
     <td>
       <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
-          <img src="./klu-logo.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="KL University">
-        </div>
-        <div style="padding-left: 12px;">
-          KL University, Vaddeswaram
-        </div>
+        <img src="./klu-logo.png" width="60" height="60" 
+             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;" 
+             alt="KL University">
+        <span>KL University, Vaddeswaram</span>
       </div>
     </td>
     <td>2021 – 2025</td>
@@ -136,12 +134,10 @@
     <td>Intermediate (MPC)</td>
     <td>
       <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
-          <img src="./sri-chaitanya-college.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya College">
-        </div>
-        <div style="padding-left: 12px;">
-          Sri Chaitanya College
-        </div>
+        <img src="./sri-chaitanya-college.png" width="60" height="60" 
+             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;" 
+             alt="Sri Chaitanya College">
+        <span>Sri Chaitanya College</span>
       </div>
     </td>
     <td>2019 – 2021</td>
@@ -152,18 +148,17 @@
     <td>SSC</td>
     <td>
       <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
-          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya School">
-        </div>
-        <div style="padding-left: 12px;">
-          Sri Chaitanya Techno School
-        </div>
+        <img src="./sri-chaitanya-schooll.png" width="60" height="60" 
+             style="border-radius: 50%; border: 2px solid #ddd; margin-right: 12px;" 
+             alt="Sri Chaitanya School">
+        <span>Sri Chaitanya Techno School</span>
       </div>
     </td>
     <td>2018 – 2019</td>
     <td>GPA: 9.5</td>
   </tr>
 </table>
+
 
 
 
