@@ -4,32 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A;Building+Something+Awesome+Everytime+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation">
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="mailto:rohanthbaipilla@gmail.com">
-          <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rohanthbaipilla" target="_blank">
-          <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rohanthbaipilla" target="_blank">
-          <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="mailto:rohanthbaipilla@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/rohanthbaipilla" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/rohanthbaipilla" target="_blank" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
+  </a>
+</div>
+
 
 
 
