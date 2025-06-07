@@ -196,7 +196,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&center=true&vCenter=true&width=900&lines=Thanks%20for%20visiting%20my%20profile!;Lets%20build%20something%20awesome%20together%20%F0%9F%92%BB" alt="Thanks animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&center=true&vCenter=true&width=900&lines=Thanks%20for%20visiting%20my%20profile!;Let's%20build%20something%20awesome%20together%20%F0%9F%92%BB" alt="Thanks animation" />
 </p>
 
 
