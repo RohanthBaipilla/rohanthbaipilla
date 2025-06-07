@@ -115,19 +115,17 @@
     <th>Year</th>
     <th>Score</th>
   </tr>
-  <tr>
+ <tr>
     <td>B.Tech - CSE</td>
     <td>
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <img src="./klu-logo.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd; margin-bottom: 8px;" alt="KL University">
-        <span style="text-align: center;">KL University, Vaddeswaram
-
-</span>
-      </div>
+      <span style="display: flex; align-items: center; justify-content: center; gap: 10px; transform: translateY(-2px);">
+        <img src="./sri-chaitanya-college.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya College">
+        <span style="margin-top: -4px;">KL University, Vaddeswaram</span>
+      </span>
     </td>
     <td>2021 – 2025</td>
     <td>CGPA: 9.5</td>
-  </tr>
+</tr>
   <tr>
     <td>Intermediate (MPC)</td>
     <td>
