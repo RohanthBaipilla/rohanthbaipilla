@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Cloud+%26+AI+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A;Building+Something+Awesome+Everytime+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation">
 </p>
+
+
 <p align="center">
   <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
@@ -24,6 +26,11 @@
       <td style="padding: 0;">
         <a href="https://github.com/rohanthbaipilla" target="_blank">
           <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
+        </a>
+      </td>
+      <td style="padding: 0;">
+        <a href="https://www.instagram.com/shiva_rohanth/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
         </a>
       </td>
     </tr>
