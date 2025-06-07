@@ -8,7 +8,7 @@
   <a href="mailto:rohanthbaipilla@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="https://github.com/rohanthbaipilla" target="_blank">
