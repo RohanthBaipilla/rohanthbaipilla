@@ -111,6 +111,42 @@
 <table align="center">
   <tr>
     <th>Qualification</th>
+    <th>Institution & Logo</th>
+    <th>Year</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>B.Tech - CSE</td>
+    <td align="center">
+      KL University, Vaddeswaram<br>
+      <img src="./klu-logo.png" width="70px" height="70px" style="margin-top: 6px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="KL University">
+    </td>
+    <td>2021 – 2025</td>
+    <td>CGPA: 9.5</td>
+  </tr>
+  <tr>
+    <td>Intermediate (MPC)</td>
+    <td align="center">
+      Sri Chaitanya College<br>
+      <img src="./sri-chaitanya-college.png" width="70px" height="70px" style="margin-top: 6px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya">
+    </td>
+    <td>2019 – 2021</td>
+    <td>941/1000</td>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td align="center">
+      Sri Chaitanya Techno School<br>
+      <img src="./sri-chaitanya-schooll.png" width="70px" height="70px" style="margin-top: 6px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="Sri Chaitanya">
+    </td>
+    <td>2018 – 2019</td>
+    <td>GPA: 9.5</td>
+  </tr>
+</table>
+
+<!--<table align="center">
+  <tr>
+    <th>Qualification</th>
     <th>Institution</th>
     <th>Logo</th>
     <th>Year</th>
@@ -137,7 +173,7 @@
     <td>2018 – 2019</td>
     <td>GPA: 9.5</td>
   </tr>
-</table>
+</table>-->
 
 
 
