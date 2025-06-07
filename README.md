@@ -87,36 +87,42 @@
 
 ## 🎓 Education
 
-<table align="center">
-  <tr>
-    <th>Qualification</th>
-    <th>Institution</th>
-    <th>Logo</th>
-    <th>Year</th>
-    <th>Score</th>
+<table align="center" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 700px;">
+  <tr style="background-color: #f0f0f0;">
+    <th style="text-align: left;">Qualification</th>
+    <th style="text-align: left;">Institution</th>
+    <th style="text-align: center;">Year</th>
+    <th style="text-align: center;">Score</th>
   </tr>
   <tr>
     <td>B.Tech - CSE</td>
-    <td>KL University, Vaddeswaram</td>
-    <td><img src="./klu-logo.png" width="70px" height="70px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="KL University"></td>
-    <td>2021 – 2025</td>
-    <td>CGPA: 9.5</td>
+    <td style="display: flex; align-items: center; gap: 10px;">
+      <img src="./klu-logo.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="KL University">
+      KL University, Vaddeswaram
+    </td>
+    <td style="text-align: center;">2021 – 2025</td>
+    <td style="text-align: center;">CGPA: 9.5</td>
   </tr>
   <tr>
     <td>Intermediate (MPC)</td>
-    <td>Sri Chaitanya College</td>
-    <td><img src="./sri-chaitanya-college.png" width="70px" height="70px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya"></td>
-    <td>2019 – 2021</td>
-    <td>941/1000</td>
+    <td style="display: flex; align-items: center; gap: 10px;">
+      <img src="./sri-chaitanya-college.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya College">
+      Sri Chaitanya College
+    </td>
+    <td style="text-align: center;">2019 – 2021</td>
+    <td style="text-align: center;">941/1000</td>
   </tr>
   <tr>
     <td>SSC</td>
-    <td>Sri Chaitanya Techno School</td>
-    <td><img src="./sri-chaitanya-school.png" width="70px" height="70px" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya"></td>
-    <td>2018 – 2019</td>
-    <td>GPA: 9.5</td>
+    <td style="display: flex; align-items: center; gap: 10px;">
+      <img src="./sri-chaitanya-school.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd; background-color: transparent;" alt="Sri Chaitanya School">
+      Sri Chaitanya Techno School
+    </td>
+    <td style="text-align: center;">2018 – 2019</td>
+    <td style="text-align: center;">GPA: 9.5</td>
   </tr>
 </table>
+
 
 ---
 <!--
