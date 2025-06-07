@@ -98,9 +98,8 @@
     <td>B.Tech - CSE</td>
     <td style="display: flex; align-items: center; gap: 10px;">
       <img src="./klu-logo.png" width="40" height="40" style="border-radius: 50%; object-fit: cover; border: 2px solid #ddd;" alt="KL University" />
-      <div style="display: flex; align-items: center;">KL University, Vaddeswaram</div>
+      <span style="line-height: 40px;">KL University, Vaddeswaram</span>
     </td>
-
     <td style="text-align: center;">2021 – 2025</td>
     <td style="text-align: center;">CGPA: 9.5</td>
   </tr>
@@ -123,6 +122,7 @@
     <td style="text-align: center;">GPA: 9.5</td>
   </tr>
 </table>
+
 
 
 
