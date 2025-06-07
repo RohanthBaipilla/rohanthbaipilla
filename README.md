@@ -5,22 +5,23 @@
 </p>
 
 <p align="center" style="margin: 0;">
-  <a href="mailto:rohanthbaipilla@gmail.com" style="margin: 0 6px;">
+  <a href="mailto:rohanthbaipilla@gmail.com" style="margin: 0 12px;">
     <img src="https://img.shields.io/badge/Email-rohanthbaipilla@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge">
   </a>
-  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="margin: 0 6px;">
+  <a href="https://www.linkedin.com/in/rohanthbaipilla/" target="_blank" style="margin: 0 12px;">
     <img src="https://img.shields.io/badge/LinkedIn-Rohanth%20Baipilla-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/rohanthbaipilla" target="_blank" style="margin: 0 6px;">
+  <a href="https://github.com/rohanthbaipilla" target="_blank" style="margin: 0 12px;">
     <img src="https://img.shields.io/github/followers/rohanthbaipilla?label=Follow&style=flat-square&logo=github" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/rohanthbaipilla" target="_blank" style="margin: 0 6px;">
-    <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
-  </a>
-  <a href="https://www.instagram.com/shiva_rohanth/" target="_blank" style="margin: 0 6px;">
+  <a href="https://www.instagram.com/shiva_rohanth/" target="_blank" style="margin: 0 12px;">
     <img src="https://img.shields.io/badge/Instagram-shiva__rohanth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
+  <a href="https://github.com/rohanthbaipilla" target="_blank" style="margin: 0 12px;">
+    <img src="https://komarev.com/ghpvc/?username=rohanthbaipilla&style=flat-square" alt="Profile Views">
+  </a>
 </p>
+
 
 
 
