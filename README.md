@@ -152,12 +152,11 @@
     <td>SSC</td>
     <td>
       <div style="display: flex; align-items: center;">
-        <div style="flex: 0 0 60px; display: flex; justify-content: center;">
-          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sri Chaitanya School">Sri Chaitanya Techno School
+        <div style="flex: 0 0 60px; display: flex; justify-content: center; align-items: center; margin: 10px; text-align: center;">
+          <img src="./sri-chaitanya-schooll.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd; margin-right: 10px;" alt="Sri Chaitanya School">
+          <span>Sri Chaitanya Techno School</span>
         </div>
-        <div style="padding-left: 12px;">
-          Sri Chaitanya Techno School
-        </div>
+      </div>
       </div>
     </td>
     <td>2018 – 2019</td>
