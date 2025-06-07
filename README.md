@@ -120,7 +120,9 @@
     <td>
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <img src="./klu-logo.png" width="50" height="50" style="border-radius: 50%; border: 2px solid #ddd; margin-bottom: 8px;" alt="KL University">
-        <span style="text-align: center;">KL University, Vaddeswaram</span>
+        <span style="text-align: center;">KL University, Vaddeswaram
+
+</span>
       </div>
     </td>
     <td>2021 – 2025</td>
