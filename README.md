@@ -75,6 +75,7 @@
 🎓 B.Tech CSE, KL University — CGPA: 9.5
 💬 Tech Stack: MERN, Flask, Firebase, CNN, Gemini AI
 🌱 Learning: React Native, AI integrations
+🔗 Portfolio: https://rohanth-baipilla-portfolio.web.app
 📧 Contact: rohanthbaipilla@gmail.com
 ```
 
