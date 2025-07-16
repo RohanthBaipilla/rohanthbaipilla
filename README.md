@@ -240,6 +240,7 @@
 📧 Email: rohanthbaipilla@gmail.com
 📱 Phone: +91-6309862111
 🔗 LinkedIn: https://www.linkedin.com/in/rohanthbaipilla/
+🌍 Portfolio: https://rohanth-baipilla-portfolio.web.app
 ```
 
 ---
